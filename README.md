@@ -3,14 +3,16 @@
 </p>
 
 <p align="center">
-  <img alt="Typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0F172A&background=FFFFFF00&lines=Hi%2C+I'm+Parth+Pathak!;BTech+IT+Student+%7C+KIET;AI%2FML+%E2%9D%A4%EF%B8%8F+%7C+Full+Stack+%7C+DevOps" />
+  <img alt="Typing" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0F172A&background=FFFFFF00&lines=Hi%2C+I'm+%3Cspan+style%3D%22color%3Awhite%22%3EParth+Pathak%3C%2Fspan%3E!;%3Cspan+style%3D%22color%3Awhite%22%3EBTech+IT+Student+%7C+KIET%3C%2Fspan%3E;AI%2FML+%E2%9D%A4%EF%B8%8F+%7C+Full+Stack+%7C+DevOps" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-**Parth Pathak** — BTech IT Student at KIET. I build AI/ML models, OpenCV projects, GenAI agents and full-stack web apps. I’m currently building *Martovity* — a marketplace for handcrafted goods that supports rural artisans.
+**<span style="color:white">Parth Pathak</span>** — <span style="color:white">BTech IT Student at KIET</span>.  
+I build AI/ML models, OpenCV projects, GenAI agents and full-stack web apps.  
+I’m currently building *Martovity* — a marketplace for handcrafted goods that supports rural artisans.
 
 ---
 
@@ -29,8 +31,8 @@
 ## 🚀 Projects
 
 <p align="center">
-  <img src="opencv_demo.gif" width="250"/>
-  <img src="agent_demo.gif" width="250"/>
+  <img src="opencv_demo.gif" width="200"/>
+  <img src="agent_demo.gif" width="200"/>
 </p>
 
 - **AI/ML Models** — Linear & Logistic Regression (GIF: `linear_demo.gif`)
@@ -51,7 +53,5 @@
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-741556217/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pathak-741556217/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parth1234560)
-
----
