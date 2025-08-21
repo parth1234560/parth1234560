@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-**<span style="color:white">Parth Pathak</span>** — **<span style="color:white">BTech IT Student at KIET.</span>**  
+**<span>Parth Pathak</span>** — **<span>BTech IT Student at KIET.</span>**  
 I build AI/ML models, OpenCV projects, GenAI agents and full-stack web apps.  
 I’m currently building *Martovity* — a marketplace for handcrafted goods that supports rural artisans.
 
