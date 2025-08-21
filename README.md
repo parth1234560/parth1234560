@@ -1,5 +1,5 @@
 # <p align="center">
-  <img src="assets/header.gif" alt="header" width="100%"/>
+  <img src="header.gif" alt="header" width="100%"/>
 </p>
 
 <p align="center">
@@ -29,15 +29,15 @@
 ## 🚀 Projects
 
 <p align="center">
-  <img src="assets/opencv_demo.gif" width="250"/>
-  <img src="assets/agent_demo.gif" width="250"/>
+  <img src="opencv_demo.gif" width="250"/>
+  <img src="agent_demo.gif" width="250"/>
 </p>
 
-- **AI/ML Models** — Linear & Logistic Regression (GIF: `assets/linear_demo.gif`)
-- **AI Agents** — LangChain automation agents (GIF: `assets/agent_demo.gif`)
-- **OpenCV** — Invisible cloak, hand-gesture launcher (GIF: `assets/opencv_demo.gif`)
-- **IoT** — ESP8266 Sound Detector with Blynk (GIF: `assets/iot_demo.gif`)
-- **Martovity** — Marketplace for handcrafted goods (GIF: `assets/martovity_demo.gif`)
+- **AI/ML Models** — Linear & Logistic Regression (GIF: `linear_demo.gif`)
+- **AI Agents** — LangChain automation agents (GIF: `agent_demo.gif`)
+- **OpenCV** — Invisible cloak, hand-gesture launcher (GIF: `opencv_demo.gif`)
+- **IoT** — ESP8266 Sound Detector with Blynk (GIF: `iot_demo.gif`)
+- **Martovity** — Marketplace for handcrafted goods (GIF: `martovity_demo.gif`)
 
 ---
 
