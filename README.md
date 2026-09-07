@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://admirable-caramel-4ec3d8.netlify.app/](https://admirable-caramel-4ec3d8.netlify.app/)
 
-- 💬 Ask me about **docker,bash,jenkins,react,c++,opencv**
+- 💬 Ask me about **docker,bash,jenkins,react,c++,github_actions,
 
 - 📫 How to reach me **pathakparthixc7503@gmail.com**
 
