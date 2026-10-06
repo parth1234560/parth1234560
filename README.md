@@ -341,9 +341,10 @@ DSA
 # 📊 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parth1234560&theme=tokyo-night&hide_border=true" width="100%"/>
-
+  <img
+    src="https://raw.githubusercontent.com/parth1234560/parth1234560/output/activity-graph.svg"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
