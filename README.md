@@ -342,9 +342,9 @@ DSA
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/parth1234560/parth1234560/output/activity-graph.svg"
-    alt="GitHub Activity Graph"
-  />
+  src="https://raw.githubusercontent.com/parth1234560/parth1234560/graph/activity-graph.svg"
+  alt="GitHub Activity Graph"
+/>
 </p>
 
 ---
