@@ -1,36 +1,475 @@
-<h1 align="center">Hi 👋, I'm Parth Pathak</h1>
-<h3 align="center">A passionate full-stack developer from India enthusiast about AI/ML and Devops</h3>
+<!-- HEADER -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth1234560&label=Profile%20views&color=0e75b6&style=flat" alt="parth1234560" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parth1234560" alt="parth1234560" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/parth_pathak_27" target="blank"><img src="https://img.shields.io/twitter/follow/parth_pathak_27?logo=twitter&style=for-the-badge" alt="parth_pathak_27" /></a> </p>
-
-- 🔭 I’m currently working on [Martovity](https://github.com/parth1234560/martivity)
-
-- 🌱 I’m currently learning **MONGODB(in_advance),MYSQL,KUBERNETES(in_advance),terraform,kibana,grafana**
-
-- 👨‍💻 All of my projects are available at [https://admirable-caramel-4ec3d8.netlify.app/](https://admirable-caramel-4ec3d8.netlify.app/)
-
-- 💬 Ask me about **docker,bash,jenkins,react,c++,github_actions,
-
-- 📫 How to reach me **pathakparthixc7503@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/parth-pathak-741556217/](https://www.linkedin.com/in/parth-pathak-741556217/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/parth_pathak_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parth_pathak_27" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/parth-pathak-741556217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parth-pathak-741556217/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/parth_pathak_27/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/parth_pathak_27/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Parth%20Pathak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 align="center">
+  Cloud & DevOps • AWS • Kubernetes • Terraform • Platform Engineering
+</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parth1234560&show_icons=true&locale=en&layout=compact" alt="parth1234560" /></p>
+<p align="center">
+  <a href="https://github.com/parth1234560">
+    <img src="https://img.shields.io/badge/GitHub-Parth1234560-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/parth-pathak-741556217/">
+    <img src="https://img.shields.io/badge/LinkedIn-Parth%20Pathak-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://leetcode.com/u/parth_pathak_27/">
+    <img src="https://img.shields.io/badge/LeetCode-Parth_Pathak_27-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parth1234560&show_icons=true&locale=en" alt="parth1234560" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parth1234560&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parth1234560&" alt="parth1234560" /></p>
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### Hi, I'm Parth 👋
+
+🎓 **B.Tech Information Technology Student**
+
+☁️ Focused on **Cloud & DevOps Engineering**
+
+⚙️ Building toward **Platform Engineering**
+
+🚀 Hands-on with **AWS, Kubernetes & Terraform**
+
+🐳 Working with **Docker & CI/CD**
+
+🐧 Strengthening **Linux & Networking**
+
+💻 Practicing **DSA in C++**
+
+📚 Building projects to turn concepts into practical skills.
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parth1234560&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# ☁️ Cloud & DevOps Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,linux,bash,docker,kubernetes,terraform,git,github,jenkins,prometheus,grafana,mysql,python&perline=7" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker"/>
+
+</p>
+
+---
+
+# 🏆 AWS Certifications
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**AWS Cloud Practitioner**
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**AWS CloudOps Engineer**
+
+**Associate**
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+
+**AWS Data Engineer**
+
+**Associate**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AWS AI Practitioner**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 What I'm Building
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🟣 Terraform AWS HA
+
+**High Availability + Blue-Green Infrastructure**
+
+### AWS
+
+- VPC
+- ALB
+- EC2
+- Auto Scaling
+- RDS
+- S3
+- IAM
+- Secrets Manager
+- CloudWatch
+- SSM
+
+### DevOps
+
+`Terraform` `IaC` `Blue-Green` `HA`
+
+<br>
+
+<a href="https://github.com/parth1234560/terraform-aws-ha-blue-green">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=parth1234560&repo=terraform-aws-ha-blue-green&theme=tokyonight&hide_border=true" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 Cloud Data Engineering Project
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛒 Multi-Country E-Commerce Analytics
+
+A cloud-based behavioral analytics platform processing clickstream data across:
+
+🇮🇳 India  
+🇬🇧 United Kingdom  
+🇨🇦 Canada
+
+</td>
+
+<td width="50%">
+
+### AWS Architecture
+
+```text
+Users
+  ↓
+Kinesis
+  ↓
+Lambda
+  ↓
+S3
+  ↓
+Glue
+  ↓
+Athena
+  ↓
+Analytics
+```
+
+**AWS Services**
+
+`S3` `Kinesis` `Lambda` `Glue` `Athena` `SNS`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧭 My DevOps Learning Journey
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/01-Linux-000000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/02-Networking-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/03-Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/04-Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/05-Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/06-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/07-Helm-0F1689?style=for-the-badge&logo=helm"/>
+<img src="https://img.shields.io/badge/08-Terraform-7B42BC?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/09-AWS-FF9900?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/10-CI%2FCD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/11-Observability-E6522C?style=for-the-badge&logo=prometheus"/>
+
+</p>
+
+---
+
+# 🧰 Technologies
+
+<table align="center">
+
+<tr>
+<td align="center" width="20%">
+
+### ☁️ Cloud
+
+AWS  
+EC2  
+VPC  
+ALB  
+RDS  
+S3  
+IAM  
+CloudWatch
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️ DevOps
+
+Docker  
+Kubernetes  
+Terraform  
+Jenkins  
+Git  
+GitHub  
+CI/CD
+
+</td>
+
+<td align="center" width="20%">
+
+### 🐧 Systems
+
+Linux  
+Bash  
+Networking  
+Processes  
+Permissions  
+System Administration
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊 Observability
+
+Prometheus  
+Grafana  
+CloudWatch  
+Metrics  
+Logs  
+Alerts
+
+</td>
+
+<td align="center" width="20%">
+
+### 💻 Programming
+
+C++  
+Python  
+Bash  
+SQL  
+DSA
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parth1234560&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parth1234560&theme=tokyonight&hide_border=true" width="49%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth1234560&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parth1234560&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
+# 🐍 My Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/parth1234560/parth1234560/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 💻 DSA Progress
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Focus-DSA-6A5ACD?style=for-the-badge"/>
+
+</p>
+
+Currently practicing:
+
+`Arrays` • `Binary Search` • `Sliding Window` • `Two Pointers` • `Stack` • `Queue`
+
+---
+
+# 🎯 Current Goals
+
+<table align="center">
+
+<tr>
+<td align="center">
+
+☁️
+
+### Cloud
+
+Deepen AWS  
+Infrastructure Architecture
+
+</td>
+
+<td align="center">
+
+☸️
+
+### Kubernetes
+
+CKA-level  
+Kubernetes Skills
+
+</td>
+
+<td align="center">
+
+🏗️
+
+### Terraform
+
+Advanced  
+Infrastructure as Code
+
+</td>
+
+<td align="center">
+
+📊
+
+### Observability
+
+Prometheus  
+Grafana • Logging
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📚 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-Learning-000000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Networking-Learning-1572B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Terraform-Advanced-7B42BC?style=for-the-badge&logo=terraform"/>
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability-Learning-E6522C?style=for-the-badge&logo=prometheus"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/parth-pathak-741556217/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/parth_pathak_27/">
+<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:pathakparthixc750@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⚡ Learn → Build → Automate → Observe → Improve
+
+</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
